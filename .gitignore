@@ -5,6 +5,7 @@
 *.so
 *.dylib
 
+
 # Test binary, built with `go test -c`
 *.test
 
@@ -16,3 +17,8 @@
 bin/*
 src/github.com/*
 pkg/*
+src/*/swagger/*
+src/*/.idea/*
+src/*/swagger.zip
+src/*/bee
+src/*/lastupdate.tmp
